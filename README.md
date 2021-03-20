@@ -2,6 +2,7 @@
 
 ### Overview
 Just a simple mod to add ores and furnace conversion recipes to the Nether and the End.
+Forked from Iconnt and updated to 1.16
 
 ### Ore Generation
 Other mods such as CoFH World will be needed to control the ore spawning.\
